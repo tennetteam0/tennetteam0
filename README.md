@@ -10,6 +10,7 @@ We specialize in:
 - ⚙️ Automation
 - 🧩 Software Development
 - 🚀 All Tech-Related Solutions
+- 💬 Social Media Management 
 
 Whether you're building a startup, upgrading your business, or automating your world —  
 **we’ve got the tools, the team, and the tech to make it happen.**
