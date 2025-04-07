@@ -9,6 +9,7 @@ We specialize in a wide range of services, including:
 - 🎨 **Graphics & Brand Design**
 - ⚙️ **Automation**
 - 📈 **Digital Strategy**
+- 🎮 **Games Development**
 - 🧩 **Software Development**
 - 🚀 **All Tech Related Solutions**
 
